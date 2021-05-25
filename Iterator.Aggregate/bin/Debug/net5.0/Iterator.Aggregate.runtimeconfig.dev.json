@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sepideh/.dotnet/store/|arch|/|tfm|",
+      "/Users/sepideh/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.csprojAssemblyReference.cache
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.AssemblyInfoInputs.cache
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.AssemblyInfo.cs
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.csproj.CoreCompileInputs.cache
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/bin/Debug/net5.0/Iterator.Aggregate.deps.json
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/bin/Debug/net5.0/Iterator.Aggregate.runtimeconfig.json
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/bin/Debug/net5.0/Iterator.Aggregate.runtimeconfig.dev.json
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/bin/Debug/net5.0/Iterator.Aggregate.dll
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/bin/Debug/net5.0/ref/Iterator.Aggregate.dll
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/bin/Debug/net5.0/Iterator.Aggregate.pdb
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.dll
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/ref/Iterator.Aggregate.dll
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.pdb
+/Users/sepideh/RiderProjects/IteratorBAU/Iterator.Aggregate/obj/Debug/net5.0/Iterator.Aggregate.genruntimeconfig.cache
